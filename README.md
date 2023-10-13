@@ -12,4 +12,4 @@ Ensuring the robustness of our creation, we integrated proper validation and log
 
 To orchestrate the project's dependencies, we leveraged Maven as our build script, streamlining the management of libraries and external components. Additionally, the inclusion of UML designs for all implemented design patterns provides a visual roadmap for developers and stakeholders alike.
 
-In essence, our collaborative effort in constructing this weather server is not just a coding endeavor; it's a testament to our commitment to best practices, design excellence, and the synthesis of technology and meteorological curiosity.
+In essence, our collaborative effort in constructing this weather server is not just a coding endeavor; it's a testament to our commitment to best practices, design excellence, and the synthesis of technology and meteorological curiosity. Thank you, enjoy! 
